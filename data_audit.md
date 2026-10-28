@@ -6,15 +6,15 @@ Purpose: Analyze retail sales, profit, discounts, products, and regional perform
 Audit Status: Initial visual inspection completed; further checks pending.
 
 ## 2. Dataset Information
-Dataset Filename: [Enter your actual CSV filename]
-Dataset Source: [Enter your actual download source]
-Total Records: 9,994 (provisional; verify in Excel)
-Total Columns: Pending verification (the screenshot shows columns A to U, or 21 fields).
+Dataset Filename: retail-sales-analysis
+Dataset Source: kaggle
+Total Records: 9,994 
+Total Columns:  A to U or 21 fields
 
 ## 3. Date Range
-Earliest Order Date: Pending verification.
-Latest Order Date: Pending verification.
-Date Format: The visible dates appear in day-month-year format; underlying Excel date values need verification.
+Earliest Order Date: 02-01-2014
+Latest Order Date: 11-12-2017
+Date Format: The visible dates appear in day-month-year format;
 
 ## 4. Important Columns
 Order ID: Visible
